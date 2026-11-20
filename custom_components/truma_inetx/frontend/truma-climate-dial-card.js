@@ -343,7 +343,7 @@ class TrumaClimateDialCard extends HTMLElement {
         background: var(--primary-color); color: var(--text-primary-color, #fff);
       }
       .modes svg { width: 24px; height: 24px; }
-      .unavailable { text-align: center; color: var(--error-color, #e4852a); padding: 16px 0; }
+      .unavailable { text-align: center; color: var(--error-color, #ffa035); padding: 16px 0; }
       [hidden] { display: none !important; }
     `;
 
